@@ -6,7 +6,7 @@
     "dev": "vite"
   },
   "dependencies": {
-    "viem": "latest"
+    "viem": "2.37.5"
   },
   "devDependencies": {
     "typescript": "^5.0.3",
